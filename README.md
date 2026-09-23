@@ -13,7 +13,6 @@
 ## 这个定制版有什么
 
 相对上游，主要面向「密码笔记本」体验：
-
 - 品牌与中文界面：「奈娜子密码本」
 - 「奈娜子」主题（淡紫 / 粉 / 奶油）
 - 激进核心 UI：隐藏浏览器集成、SSH Agent、KeeShare、报告等非核心入口，精简工具栏与设置页
@@ -21,7 +20,7 @@
 
 ## 怎么用
 
-1. 打开本仓库的 [Releases](https://github.com/Nainazi/--/releases)，下载最新的 `nainazi-passbook-win64.zip`
+1. 打开本仓库的 [Releases](https://github.com/Nainazi/nainazi-passbook/releases)，下载最新的 `nainazi-passbook-win64.zip`
 2. 解压到任意目录，运行 `nainazi-passbook.exe`
 3. 新建密码库，或打开已有的 `.kdbx` 文件
 
