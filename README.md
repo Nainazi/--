@@ -5,7 +5,7 @@
 ## 重要说明
 
 - **性质**：个人自用 fork / 定制构建，不是官方产品，也不是对 KeePassXC 项目的官方镜像。
-- **上游出处**：[KeePassXC](https://github.com/Nainazi/keepassxc)（KeePassXC Team）。本仓库 Release 中的 Windows 可执行文件由其源码定制编译而来。
+- **上游出处**：[KeePassXC](https://github.com/keepassxc/keepassxc)（KeePassXC Team）。本仓库 Release 中的 Windows 可执行文件由其源码定制编译而来。
 - **完整源码**：定制改动在 [Nainazi/keepassxc](https://github.com/Nainazi/keepassxc)（`develop` 分支）。本仓库只放介绍与 Release 安装包，不重复托管整棵源码树。
 - **许可**：遵循 KeePassXC 的 GPL-2.0-or-later（及第三方组件各自许可）。使用本二进制即表示你了解需遵守相应开源许可；需要源码请到上面的 fork 仓库获取。
 - **安全边界**：本地 KDBX 密码库；填充仅由用户触发（Auto-Type 等）；不做静默抓密、不做云同步、不擅自自动提交表单。
